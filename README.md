@@ -43,6 +43,7 @@ sq_diff: Square difference between erase and pen event.
 
 TEST1-
 Do not erase when x_diff < 190 && y_diff < 195 && radius < 48 && sq_dis < 370
+
 TEST2-
 Do not erase when x_diff < 225 && y_dif < 270 && r < 64 && sq_dis < 370
 
