@@ -1,5 +1,6 @@
 # Samsung Flip - Accidental Erasing Problem
 
+## Overview
 The Samsung Flip is an innovative digital flipchart that helps to drive more productive and efficient business collaboration without the hassle. With the Samsung Flip interactive UHD display, your team can work smarter, faster and better. Business meetings can take place anywhere, anytime, and you can take the stress out of the logistics.
 
 The Flip is an easy to use device which feels just like a writing board and it uses a passive pen technology which means that you can easily write using any passive object pen , marker , etc. It also detects the thickness of the object and on that basis it works in 3 modes pen , highlighter and eraser. It also allows simultaneous writing and erasing.
